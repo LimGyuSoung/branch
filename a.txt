@@ -4,3 +4,5 @@
 git 수업 5교시
 
 git의 red 브랜치를 만들었어요.
+
+저는 지금 git green branch에 있어요
